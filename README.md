@@ -14,16 +14,12 @@ This project is a Python-based steganography tool that uses the Least Significan
 - **Python 3.13**: The primary programming language.
 - **OpenCV (cv2)**: For image processing (reading, writing, and modifying images).
 - **NumPy**: For efficient array manipulation, especially for pixel data.
-- **Tkinter & ttk**: For creating the GUI with a dark theme.
 - **OS Module**: For file path operations and checking file existence.
 
 ## Installation
 
-1. **Clone the Repository**:
-   ```bash
-   git clone <https://github.com/aakash2806/Steganography_Project.git>
-   cd <repository-folder>
-2. **Install Dependencies**: Ensure you have Python 3.13 installed.Then, install the required packages:
+
+ **Install Dependencies**: Ensure you have Python 3.13 installed.Then, install the required packages:
    ```bash
    pip install opencv-python numpy
 
@@ -63,8 +59,7 @@ The current code uses a fixed folder path (F:\Python\steganography project) and 
 This project is open source and available under the MIT License.
 ## Contribution
 Contribution, suggestion, and bug reports are welcome! Feel free to open an issue or submit a pull requesr.
-## Screenshot
-![Screenshot (3)](https://github.com/user-attachments/assets/402cd4e6-389e-4395-852a-dafda1f5e34a)
+
 
   
 
